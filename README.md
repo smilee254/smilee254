@@ -44,8 +44,13 @@ I bridge the gap between complex mathematical models and scalable software solut
 
 ---
 
-### 📊 My GitHub Journey
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px" />
+  <i>"Optimizing code by day, capturing the cosmos by night."</i> <br>
+  <b>🌌 Astrophotography Enthusiast | 🐍 Python Architect | 📈 Quant Analyst</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer&width=1000" />
 </p>
