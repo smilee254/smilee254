@@ -42,4 +42,10 @@ I bridge the gap between complex mathematical models and scalable software solut
 ### 📫 Connect with me:
 [mwanglewis6@gmail.com]  
 
-![Whis's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+---
+
+### 📊 My GitHub Journey
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px" />
+</p>
