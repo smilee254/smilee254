@@ -1,4 +1,4 @@
-![Header GIF](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Whis&fontSize=70)
+![Header GIF](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Lewis&fontSize=70)
 # Hi, I'm Lewis (smilee) 👋
 
 ### Actuarial Scientist | Backend Engineer | Quant Researcher
