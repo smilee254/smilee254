@@ -13,71 +13,11 @@
 
 ---
 
-## `$ whoami`
+##                                  `$ whoami`
 
 <div align="center">
 
-<svg width="720" height="380" viewBox="0 0 720 380" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Card background -->
-  <rect width="720" height="380" rx="12" fill="#0d1117"/>
-  <rect x="0.5" y="0.5" width="719" height="379" rx="11.5" stroke="#30363d"/>
-  <!-- Top accent bar -->
-  <rect width="720" height="3" rx="2" fill="#58a6ff"/>
 
-  <!-- Avatar -->
-  <circle cx="64" cy="68" r="30" fill="#1c2d40"/>
-  <text x="64" y="75" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="600" fill="#58a6ff">LM</text>
-
-  <!-- Name + handle -->
-  <text x="110" y="58" font-family="'Segoe UI',Arial,sans-serif" font-size="21" font-weight="600" fill="#e6edf3">Lewis Mwangi</text>
-  <text x="110" y="80" font-family="'Courier New',monospace" font-size="13" fill="#58a6ff">smilee254</text>
-
-  <!-- Divider 1 -->
-  <line x1="32" y1="112" x2="688" y2="112" stroke="#30363d" stroke-width="0.5"/>
-
-  <!-- Location row -->
-  <text x="32" y="136" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="0.09em" fill="#8b949e">LOCATION</text>
-  <text x="32" y="155" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#c9d1d9">Nairobi / Chuka, Kenya</text>
-  <text x="258" y="155" font-family="'Courier New',monospace" font-size="12" fill="#8b949e">UTC +03:00</text>
-
-  <!-- Education row -->
-  <text x="32" y="182" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="0.09em" fill="#8b949e">EDUCATION</text>
-  <text x="32" y="201" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#c9d1d9">B.Sc. Actuarial Science — Chuka University</text>
-
-  <!-- Company row -->
-  <text x="32" y="228" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="0.09em" fill="#8b949e">COMPANY</text>
-  <text x="32" y="247" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#c9d1d9">T-tech</text>
-
-  <!-- Divider 2 -->
-  <line x1="32" y1="265" x2="688" y2="265" stroke="#30363d" stroke-width="0.5"/>
-
-  <!-- Focus label -->
-  <text x="32" y="286" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="0.09em" fill="#8b949e">FOCUS</text>
-
-  <!-- Pill row 1 -->
-  <rect x="32" y="294" width="200" height="24" rx="6" fill="#1c2d40"/>
-  <text x="132" y="310" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#58a6ff">Parametric Insurance &amp; Fintech</text>
-
-  <rect x="242" y="294" width="196" height="24" rx="6" fill="#231f3d"/>
-  <text x="340" y="310" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#a78bfa">Quant Finance &amp; Alpha Research</text>
-
-  <rect x="448" y="294" width="218" height="24" rx="6" fill="#0d2b22"/>
-  <text x="557" y="310" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#34d399">High-Performance Backend Systems</text>
-
-  <!-- Pill row 2 -->
-  <rect x="32" y="326" width="184" height="24" rx="6" fill="#2b1f0a"/>
-  <text x="124" y="342" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#fbbf24">LegalTech &amp; Data Engineering</text>
-
-  <!-- Divider 3 -->
-  <line x1="32" y1="362" x2="688" y2="362" stroke="#30363d" stroke-width="0.5"/>
-
-  <!-- Footer row -->
-  <text x="32" y="377" font-family="'Segoe UI',Arial,sans-serif" font-size="10" letter-spacing="0.09em" fill="#8b949e">AFTER HOURS</text>
-  <text x="152" y="377" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#c9d1d9">Astrophotography · Urban landscape lighting</text>
-  <text x="688" y="377" text-anchor="end" font-family="'Courier New',monospace" font-size="11" fill="#58a6ff">mwanglewis6@gmail.com</text>
-</svg>
-
-</div>
 
 > *I bridge actuarial mathematics and production-grade software. Whether modelling income risk for Nairobi's gig workers or backtesting alphas for WorldQuant, the discipline is the same: find signal, eliminate noise, build something that holds under pressure.*
 
